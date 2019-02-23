@@ -1,0 +1,7 @@
+D:\Trainings Resources\Android\AndroidTraining2019\AndroidTrainng_EmpAPI\AndroidTrainng_EmpAPI\bin\AndroidTrainng_EmpAPI.dll.config
+D:\Trainings Resources\Android\AndroidTraining2019\AndroidTrainng_EmpAPI\AndroidTrainng_EmpAPI\bin\AndroidTrainng_EmpAPI.dll
+D:\Trainings Resources\Android\AndroidTraining2019\AndroidTrainng_EmpAPI\AndroidTrainng_EmpAPI\bin\AndroidTrainng_EmpAPI.pdb
+D:\Trainings Resources\Android\AndroidTraining2019\AndroidTrainng_EmpAPI\AndroidTrainng_EmpAPI\obj\Debug\AndroidTrainng_EmpAPI.csproj.CoreCompileInputs.cache
+D:\Trainings Resources\Android\AndroidTraining2019\AndroidTrainng_EmpAPI\AndroidTrainng_EmpAPI\obj\Debug\AndroidTrainng_EmpAPI.dll
+D:\Trainings Resources\Android\AndroidTraining2019\AndroidTrainng_EmpAPI\AndroidTrainng_EmpAPI\obj\Debug\AndroidTrainng_EmpAPI.pdb
+D:\Trainings Resources\Android\AndroidTraining2019\AndroidTrainng_EmpAPI\AndroidTrainng_EmpAPI\obj\Debug\AndroidTrainng_EmpAPI.csprojAssemblyReference.cache
